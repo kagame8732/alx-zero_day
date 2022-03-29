@@ -1,2 +1,1 @@
-My first readme
-And it will helpful 
+It will helpful 
